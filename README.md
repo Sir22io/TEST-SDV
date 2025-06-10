@@ -2,11 +2,6 @@
 
 > Plateforme d'automatisation de tests d'intrusion basée sur Kali Linux
 
-[![CI/CD](https://github.com/your-org/cybertoolbox-pro/workflows/CI/badge.svg)](https://github.com/your-org/cybertoolbox-pro/actions)
-[![Security Scan](https://github.com/your-org/cybertoolbox-pro/workflows/Security/badge.svg)](https://github.com/your-org/cybertoolbox-pro/actions)
-[![Docker](https://img.shields.io/docker/v/cybertoolbox/cybertoolbox-pro?label=docker)](https://hub.docker.com/r/cybertoolbox/cybertoolbox-pro)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## 🚀 Installation Rapide
 
 ```bash
