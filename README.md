@@ -25,7 +25,15 @@ open http://localhost
 🎯 Interface moderne - Dashboard temps réel et UX intuitive
 
 🛠️ Outils Intégrés
-OutilUsageStatusNmapPort scanning & OS detection✅SQLMapSQL injection testing✅HydraBrute force attacks✅John the RipperPassword cracking✅MetasploitExploitation framework✅Burp SuiteWeb application testing🔄OpenVASVulnerability scanning🔄Aircrack-ngWiFi security testing📋
+OutilUsageStatusNmapPort scanning & OS detection✅
+SQLMapSQL injection testing✅
+HydraBrute force attacks✅
+John the RipperPassword cracking✅
+MetasploitExploitation framework✅
+Burp SuiteWeb application testing🔄
+OpenVASVulnerability scanning🔄
+Aircrack-ngWiFi security testing📋
+
 📋 Prérequis
 
 Docker >= 20.10
