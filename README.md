@@ -1,2 +1,0 @@
-# TEST-SDV
-test maquette
